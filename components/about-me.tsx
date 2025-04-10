@@ -41,10 +41,6 @@ const AboutMe = () => {
                 </div>
                 <div>
                     <p className="my-8"> Soy un desarrollador apasionado que encuentra su mayor inspiración entre líneas de código y algoritmos desafiantes. Mi enfoque está principalmente en el backend, donde me encanta optimizar procesos y resolver problemas complejos. Siempre estoy abierto a aprender nuevos conocimientos y afrontar retos que me permitan crecer tanto profesional como personalmente. Cuando no estoy inmerso en la programación, disfruto de jugar videojuegos, del aire libre y el deporte.</p>
-
-                    <Button>
-                        <Phone size={20} className="mr-2" />Hablamos
-                    </Button>
                 </div>
             </div>
         </div>
