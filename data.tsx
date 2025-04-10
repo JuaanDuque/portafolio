@@ -123,7 +123,7 @@ export const dataContact = [
         id: 1,
         title: "Teléfono",
         subtitle: "+57 3016507174",
-        link: "tel:+34677666633",
+        link: "https://wa.link/q2qh0j",
         icon: <Phone />,
     },
     {
